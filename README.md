@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osamaloay
-- 👀 I’m interested in Cyber security , problem solving , softwares and large language models
-- 🌱 I’m currently learning python and Django
-- 💞️ I’m looking to collaborate on web projects using django
+- 👀 I’m interested in Cyber security , problem solving , softwares 
+- 🌱 I’m currently learning 
+- 💞️ 
 - 📫 How to reach me :osama.mansour@student.giu-uni.de
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
